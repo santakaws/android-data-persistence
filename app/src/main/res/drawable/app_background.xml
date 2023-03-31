@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Name: Brennon Hahs -->
+<!-- CWID: 887487148 -->
+<!-- Email: brennonhahs@csu.fullerton.edu -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:startColor="#9A7AF0"
+        android:endColor="#E8D06D"
+        android:angle="-45"/>
+
+</shape>
