@@ -1,7 +1,3 @@
-// Name: Brennon Hahs
-// CWID: 887487148
-// Email: brennonhahs@csu.fullerton.edu
-
 package com.example.assignment4_persistence
 
 import android.graphics.Color.rgb
